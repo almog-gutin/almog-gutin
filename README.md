@@ -23,9 +23,9 @@ npx almog-gutin
 
 
 ## < A little more about me... />
-My name is Almog Gutin. I'm 21 years old from Jerusalem, Israel and I am a student in Software Engineering. I wrote my first code when I was in the 4th grade and since then I knew I wanted to be a devolper. 
+My name is Almog Gutin. I'm 21 years old from Jerusalem, Israel and I am a student in Software Engineering. I wrote my first code when I was in the 4th grade and since then I knew I wanted to be a developer.
 
-My main goal is to be a full stack developer. I'm a hard worker, who sticks to his values. I know my strengths and weeknesses and I study and work hard in order to build up my weeknesses into strengths. 
+My main goal is to be a full stack developer. I'm a hard worker, who sticks to his values. I know my strengths and weaknesses and I study and work hard in order to build up my weaknesses into strengths. 
 
 ### < Technologies /> 💻
 ![HTML Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
