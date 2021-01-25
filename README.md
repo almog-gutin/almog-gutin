@@ -12,7 +12,7 @@
 
 ***
 
-<img align='right' src="PNG image-33F52D5498E9-1.png" width="200"/>
+<img align='right' src="Images/PNG image-33F52D5498E9-1.png" width="200"/>
 
 👇 Hit in your console or terminal to connect with me.
 
